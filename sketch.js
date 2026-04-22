@@ -7,8 +7,8 @@ function setup() {
 
 function draw() {
   // 配信時は clear(); に書き換え
-  background(20);
-  //clear();
+  //background(20);
+  clear();
   
   orbitControl();
 
